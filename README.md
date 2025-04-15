@@ -3,7 +3,7 @@
 
 ## 📊 Overview
 
-This Power BI Dashboard presents an interactive and comprehensive analysis of ICC Test Cricket data, focused on **Indian players' performance**. The dashboard uses curated datasets (sourced from Kaggle) to explore and visualize batting statistics, player rankings, and comparative insights.
+This Power BI Dashboard presents an interactive and comprehensive analysis of ICC Cricket data, focused on **Indian players' performance**. The dashboard uses curated datasets (sourced from Kaggle) to explore and visualize batting statistics, player rankings, and comparative insights.
 
 ## 📌 Features
 
